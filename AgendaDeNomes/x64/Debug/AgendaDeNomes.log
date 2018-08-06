@@ -1,0 +1,4 @@
+﻿  AgendaDeNomes.cpp
+c:\users\carlo\onedrive\documentos\git\agendadenomes\agendadenomes.cpp(155): warning C4101: 'dignome': variável local não referenciada
+c:\users\carlo\onedrive\documentos\git\agendadenomes\agendadenomes.cpp(205): warning C4715: 'executa': nem todos os caminhos de controle retornam um valor
+  AgendaDeNomes.vcxproj -> C:\Users\carlo\OneDrive\Documentos\Git\x64\Debug\AgendaDeNomes.exe
